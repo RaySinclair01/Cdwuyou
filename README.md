@@ -4,7 +4,6 @@
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](#installation)
 [![Language](https://img.shields.io/badge/Language-Java-orange.svg)](#technical-stack)
 
-**Authors:** [Your Name/Team Name]  
 **Institution:** Laboratory of Environmental Ecological Health, Xiangtan University
 
 This repository contains the official mobile application, **Cd-Wise**, developed as a practical implementation of the research detailed in the paper: *"The development of the 'Cd-Wise' app for human health risk assessment, dietary recommendations, and planting structure adjustment of cadmium in Chinese vegetables Based on machine learning"*.
