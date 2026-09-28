@@ -1,6 +1,4 @@
-以下为修改后的 README，已删除中文版 APK 相关内容，仅保留英文版下载信息：
 
-```markdown
 # Cd-Wise: An AI-Powered Mobile Application for Cadmium Risk Management in Vegetables
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -79,4 +77,4 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](./LICEN
 ---
 
 > © 2025 Laboratory of Environmental Ecological Health, Xiangtan University. All Rights Reserved.
-```
+
